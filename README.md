@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Merhaba, ben Rıdvan
 
-<!--
-**rdvan45keskin/rdvan45keskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bilişim Sistemleri Ve Teknolojileri öğrencisiyim.  
+🌱 Web geliştirme, Python, C# ve Mobil programlama üzerine çalışıyorum.  
+🚀 GitHub'da öğrendiklerimi paylaşmayı seviyorum.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Kullandığım Teknolojiler
+- 🐍 Python  
+- ⚙️ C#  
+- 📱 Flutter  
+- 🌐 HTML | CSS | JavaScript  
+- 🔄 Git & GitHub  
+
+---
+
+## 📊 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdvan45keskin&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdvan45keskin&layout=compact&theme=radical)
+
+---
+
+## 📫 Bana Ulaş
+- [LinkedIn](https://linkedin.com/in/rdvan45keskin)  
+- [E-posta](rdvan45keskin@gmail.com)  
